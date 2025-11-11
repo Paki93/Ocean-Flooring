@@ -3,7 +3,7 @@
    =========================== */
 nav {
 
-    background: #0077b6;
+    background:  rgba(80, 68, 26, 0.488);
     /* Dark blue background for the navigation bar */
     color: #fff;
     /* Default text color is white */
@@ -518,7 +518,7 @@ select:focus {
    FOOTER
    =========================== */
 footer {
-    background: #0077b6;
+    background:  rgba(80, 68, 26, 0.488);
     /* Dark blue background */
     color: white;
     /* White text */
