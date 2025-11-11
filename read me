@@ -1,0 +1,29 @@
+
+add 4 th price and connect
+fix navbar
+save feedback 
+enlarge footer with extra topping
+connect email
+review text
+
+
+change global color: only 3 color
+look safety
+register google map business
+register domain name
+
+CURRENTLY...
+working on save feedback
+average stars working but fail to bring back on feedback page
+next:
+ask chat gpt key word:
+make the following code pull all reviews directly from Google Sheets, so every user (no matter their browser or device) sees the same feedback:
+feedback 2 is just trial.. u can cancel it, not working
+
+current
+using chat gpt to see which data is for post and fetch AND FIX FETCH
+
+NOW file - 17.4
+feedback 2 is for actual saving and fetching, make it work as only name and comment does save
+- finishing to comment feedback 2 from chat gpt
+commented everything look on note
